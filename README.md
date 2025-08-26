@@ -14,7 +14,5 @@ Post distribution
 Hashtag Performance
 Engagement Performance
 Content Distribution
-##Tools used
-Power BI
-[Click here to view livereport https://app.powerbi.com/groups/me/reports/d2847d63-eaf9-4c93-9149-4cbf7eac4b4c/524e39525d02e282c87b?experience=power-bi]
+##Tools used Power BI
 
