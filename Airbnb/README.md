@@ -85,6 +85,21 @@ Based on the analysis, here are 10 actionable strategies for Airbnb hosts:
 9. **Target Premium Segment:** Utilize luxury pricing strategies in Amsterdam/Paris
 10. **Pursue Superhost Status:** Enhances credibility and enables premium pricing
 
+## Dashboard Previews
+
+### Power BI Dashboard Overview
+[Power BI Dashboard](screenshots/powerbi_overview.png)
+*Interactive dashboard showing European Airbnb market analysis with KPIs and filtering capabilities*
+
+### Price Comparison Analysis  
+[Price Analysis Map](screenshots/price_comparison.png)
+*Geographic visualization of pricing variations across 10 European cities*
+
+### Market Trends & Insights
+![Market Insights](screenshots/market_trends.png)
+*Guest satisfaction metrics and cleanliness ratings analysis*
+
+---
 ## Methodology
 
 **Tools & Technologies:**
@@ -163,4 +178,5 @@ Master's in Business Analytics & Data Science | EU Business School Munich
 🌐 Blog: [Amani's Notes on Substack](https://amaninotes.substack.com)
 
 *This project was completed as part of MADSC202 - Data Visualization and Communication, demonstrating proficiency in business intelligence tools, data analysis, and data-driven storytelling.*
+
 
