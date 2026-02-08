@@ -88,18 +88,10 @@ Based on the analysis, here are 10 actionable strategies for Airbnb hosts:
 ## Dashboard Previews
 
 ### Power BI Dashboard Overview
-[Power BI Dashboard](screenshots/powerbi_overview.png)
+[Power BI Dashboard](Airbnb/screenshots/PowerBI Dashboard preview.png)
 *Interactive dashboard showing European Airbnb market analysis with KPIs and filtering capabilities*
+[Power BI Dashboard](Airbnb/screenshots/PowerBI Dashboard preview.png)
 
-### Price Comparison Analysis  
-[Price Analysis Map](screenshots/price_comparison.png)
-*Geographic visualization of pricing variations across 10 European cities*
-
-### Market Trends & Insights
-![Market Insights](screenshots/market_trends.png)
-*Guest satisfaction metrics and cleanliness ratings analysis*
-
----
 ## Methodology
 
 **Tools & Technologies:**
@@ -178,5 +170,6 @@ Master's in Business Analytics & Data Science | EU Business School Munich
 🌐 Blog: [Amani's Notes on Substack](https://amaninotes.substack.com)
 
 *This project was completed as part of MADSC202 - Data Visualization and Communication, demonstrating proficiency in business intelligence tools, data analysis, and data-driven storytelling.*
+
 
 
