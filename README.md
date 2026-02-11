@@ -40,7 +40,6 @@ Analyzed pricing strategies, guest satisfaction drivers, and market segmentation
 - 🎨 Interactive dashboards with drill-down capabilities
 
 [**→ View Project**](Airbnb/) | [**→ Live Power BI Dashboard**](https://app.powerbi.com/groups/me/reports/c28f7aab-ddaa-49c2-adbb-e522b49d5a2f/f99936a1229e5e8d73ad?experience=power-bi)
-**Link to the README* Airbnb/README.md
 
 **Viral Social Media Trends Analysis**
 - Analysis of 12 billion views across TikTok, Instagram, Twitter, YouTube
