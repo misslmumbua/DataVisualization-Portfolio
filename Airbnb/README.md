@@ -171,7 +171,8 @@ Master's in Business Analytics & Data Science | EU Business School Munich
 💼 LinkedIn: [linkedin.com/in/laura-mumbua](https://linkedin.com/in/laura-mumbua)  
 🌐 Blog: [Amani's Notes on Substack](https://amaninotes.substack.com)
 
-*This project was completed as part of MADSC202 - Data Visualization and Communication, demonstrating proficiency in business intelligence tools, data analysis, and data-driven storytelling.*
+*This project was completed as part of MADSC202 - Data Visualization and Communication, demonstrating proficiency in business intelligence tools, data analysis, and data-driven storytelling.* Tableau visualization created as part of group coursework with classmates
+
 
 
 
