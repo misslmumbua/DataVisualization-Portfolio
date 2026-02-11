@@ -47,4 +47,5 @@ Analyzed pricing strategies, guest satisfaction drivers, and market segmentation
 **Business Intelligence: Sales & Customer Analysis**
 - 9-year sales analysis (£5M revenue) for UK ICT equipment provider
 - Complete BI lifecycle from infrastructure planning to strategic recommendation
+Power BI Interactive Report: View Full Analysis
 
