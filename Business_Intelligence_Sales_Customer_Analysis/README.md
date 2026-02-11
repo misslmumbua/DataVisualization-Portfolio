@@ -10,6 +10,14 @@ Comprehensive Business Intelligence implementation for **Dennra Inc.**, a UK-bas
 
 **Power BI Interactive Report:** [View Full Analysis](https://app.powerbi.com/links/_1OtDy_ue_?ctid=1eb34f73-38dd-42db-98db-53b54e749d52&pbi_source=linkShare)
 
+## Dashboard Overview
+![Power BI Dashboard](screenshots/Dennra_Sales_Dashboard.png)
+![Power BI Dashboard](screenshots/Dennra_Sales_Dashboard1.png)
+![Power BI Dashboard](screenshots/Dennra_Sales_Dashboard2.png)
+![Power BI Dashboard](screenshots/Dennra_Customer_Analysis_Dashboard.png)
+![Power BI Dashboard](screenshots/Dennra_Customer_Analysis_Dashboard1.png)
+![Power BI Dashboard](screenshots/Dennra_Customer_Analysis_Dashboard2.png)
+
 ## Business Context
 
 Dennra Inc. experienced substantial growth leading to massive data accumulation from operations. The company required a robust Business Intelligence framework using Power BI to transform this data into strategic insights driving informed decision-making and competitive positioning.
