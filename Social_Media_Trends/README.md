@@ -14,7 +14,6 @@ Comprehensive analysis of viral social media trends across **TikTok, Instagram, 
 
 ## Dashboard Overview
 ![Power BI Dashboard](screenshots/Social_Media_Trends_Dashboard.png)
-![Power BI Dashboard](screenshots/Social_Media_Analysis_Dashboard1.png)
 ![Power BI Dashboard](screenshots/Social_Media_Analysis_Dashboard2.png)
 
 ##Dataset Overview
