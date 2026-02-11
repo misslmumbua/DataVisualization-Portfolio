@@ -12,11 +12,12 @@ Comprehensive analysis of viral social media trends across **TikTok, Instagram, 
 
 **Power BI Interactive Dashboard:** [View Full Analysis](https://app.powerbi.com/groups/me/reports/d2847d63-eaf9-4c93-9149-4cbf7eac4b4c/524e39525d02e282c87b?experience=power-bi)
 
-## Dataset Overview
+## Dashboard Overview
 ![Power BI Dashboard](screenshots/Social_Media_Trends_Dashboard.png)
 ![Power BI Dashboard](screenshots/Social_Media_Analysis_Dashboard1.png)
 ![Power BI Dashboard](screenshots/Social_Media_Analysis_Dashboard2.png)
 
+##Dataset Overview
 - **Source:** [Kaggle - Viral Social Media Trends Dataset](https://www.kaggle.com/datasets/atharvasoundankar/viral-social-media-trends-and-engagement-analysis)
 - **Platforms Analyzed:** TikTok, Instagram, Twitter (X), YouTube
 - **Total Engagement Metrics:**
