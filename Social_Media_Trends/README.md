@@ -562,9 +562,6 @@ Master's in Business Analytics & Data Science | EU Business School Munich
 
 📧 Email: laura.mumbua@gmail.com  
 💼 LinkedIn: [linkedin.com/in/laura-mumbua](https://linkedin.com/in/laura-mumbua)  
-🌐 Blog: [Amani's Notes on Substack](https://amaninotes.substack.com)
-
----
 
 *This project was completed as part of MADSC202 - Data Visualization and Communication at EU Business School Munich, demonstrating proficiency in Power BI, marketing analytics, strategic planning, and data-driven business intelligence.*
 
