@@ -2,7 +2,7 @@
 **5+ Years IT Infrastructure Experience** | Transitioning to Data Analytics
 📍 Munich, Germany | 📧 laura.mumbua@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/laura-mumbua)
 ## 👋 About Me
-Data analytics professional with 5+ years of enterprise IT infrastructure experience across government, healthcare, and manufacturing sectors in Kenya and Germany. 
+An ICT Professional with 5+ years of enterprise IT infrastructure experience across government, healthcare, and manufacturing sectors in Kenya and Germany. 
 Currently completing a Master's in Business Analytics and Data Science, combining hands-on technical expertise with strategic data-driven problem-solving.
 **What makes me different?**
 I bring a unique perspective from IT infrastructure—I understand not just how to analyze data, but how to build the systems that make analytics possible.
