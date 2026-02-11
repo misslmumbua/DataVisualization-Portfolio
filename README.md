@@ -43,6 +43,7 @@ Analyzed pricing strategies, guest satisfaction drivers, and market segmentation
 **Viral Social Media Trends Analysis**
 - Analysis of 12 billion views across TikTok, Instagram, Twitter, YouTube
 - Platform-specific engagement patterns and content optimization strategies
+- **Power BI Interactive Dashboard:** [View Full Analysis](https://app.powerbi.com/groups/me/reports/d2847d63-eaf9-4c93-9149-4cbf7eac4b4c/524e39525d02e282c87b?experience=power-bi)
   
 **Business Intelligence: Sales & Customer Analysis**
 - 9-year sales analysis (£5M revenue) for UK ICT equipment provider
